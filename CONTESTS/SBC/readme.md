@@ -44,9 +44,9 @@ Competitive-Programming
 |[#8 ](./PROVAS/2014)|2014| Rafael Henrique   |
 |[#9 ](./PROVAS/2013)|2013| Rafael Henrique   |
 |[#10](./PROVAS/2012)|2012| Thalison Henrique |
-|[#11](./PROVAS/2011)|2011|                   |
+|[#11](./PROVAS/2011)|2011| Pedro Gabriel     |
 |[#12](./PROVAS/2010)|2010| Rickelme Dias     |
-|[#13](./PROVAS/2009)|2009|                   |
+|[#13](./PROVAS/2009)|2009| Pedro Gabriel     |
 |[#14](./PROVAS/2008)|2008|                   |
 |[#15](./PROVAS/2007)|2007|                   |
 |[#16](./PROVAS/2006)|2006|                   |
